@@ -1,0 +1,3 @@
+functions
+isLeaf
+	^ children isEmpty 

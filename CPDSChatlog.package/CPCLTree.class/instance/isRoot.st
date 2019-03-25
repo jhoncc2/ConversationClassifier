@@ -1,0 +1,3 @@
+functions
+isRoot 
+	^ parent = nil

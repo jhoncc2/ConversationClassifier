@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CPDSChatlog-Classifier",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user",
+		"date",
+		"content",
+		"attachement",
+		"dateSec",
+		"parentGroup",
+		"group"
+	],
+	"name" : "CPDSMessage",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+initialization
+dateSec
+	^ dateSec

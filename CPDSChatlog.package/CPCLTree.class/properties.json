@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "CPDSChatlog-Classifier",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"const_limitSec",
+		"const_rate",
+		"children",
+		"start",
+		"end",
+		"chatlog",
+		"parent"
+	],
+	"name" : "CPCLTree",
+	"type" : "normal"
+}
